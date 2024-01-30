@@ -4,10 +4,10 @@ class Solution(object):
         ans=[]
         for i in range(0,len(nums)):
             if found:
-                break
+                return ans
             for j in range(0,len(nums)):
                 if i!=j and nums[i]+nums[j]==target:
                     ans.append(i)
                     ans.append(j)
                     found=True
-        return ans
+        return ans   
