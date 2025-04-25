@@ -21,12 +21,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1500-count-largest-group](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
 ## Array
 |  |
 | ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
@@ -36,5 +38,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
