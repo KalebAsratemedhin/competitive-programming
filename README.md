@@ -31,11 +31,13 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
@@ -43,4 +45,12 @@
 | [0560-subarray-sum-equals-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
