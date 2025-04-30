@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Dynamic Programming
@@ -31,6 +32,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2856-count-complete-subarrays-in-an-array) |
