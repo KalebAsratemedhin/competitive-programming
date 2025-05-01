@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -56,13 +57,24 @@
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Binary Search
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Sorting
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
