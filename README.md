@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
 |  |
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0868-push-dominoes) |
+## String
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
