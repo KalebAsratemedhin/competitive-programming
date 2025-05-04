@@ -25,6 +25,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
@@ -34,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0868-push-dominoes) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
