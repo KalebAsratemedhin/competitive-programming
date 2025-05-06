@@ -38,6 +38,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2048-build-array-from-permutation](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
