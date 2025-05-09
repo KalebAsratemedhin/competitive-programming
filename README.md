@@ -7,16 +7,19 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
