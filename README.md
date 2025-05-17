@@ -44,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0075-sort-colors) |
 | [0560-subarray-sum-equals-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -101,11 +102,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0075-sort-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2215-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0868-push-dominoes) |
 ## String
 |  |
