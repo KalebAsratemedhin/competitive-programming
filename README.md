@@ -66,6 +66,7 @@
 | [3321-type-of-triangle](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sliding Window
 |  |
@@ -81,6 +82,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3639-zero-array-transformation-i) |
 ## Queue
 |  |
 | ------- |
