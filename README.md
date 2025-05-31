@@ -54,6 +54,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0075-sort-colors) |
 | [0560-subarray-sum-equals-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
+| [0945-snakes-and-ladders](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0945-snakes-and-ladders) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -197,5 +199,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
