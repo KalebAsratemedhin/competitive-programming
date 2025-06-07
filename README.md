@@ -48,6 +48,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Array
@@ -118,6 +119,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
@@ -139,6 +141,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3637-count-number-of-balanced-permutations) |
@@ -163,6 +166,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3647-zero-array-transformation-iii) |
@@ -204,4 +208,8 @@
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
