@@ -202,6 +202,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0386-lexicographical-numbers) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
