@@ -1,6 +1,21 @@
 class Solution:
     def lexicalOrder(self, n: int) -> List[int]:
-        nums = [str(num) for num in range(1, n + 1)]
-        nums.sort()
-        return [int(num) for num in nums]
+        curr = []
+        ans = []
+
+        def dfs():
+            if int("".join(curr)) > n:
+                return 
+            ans.append(int("".join(curr)))
+
+            for digit in range(0, 10):
+                curr.append(str(digit))
+                dfs()
+                curr.pop()
+
+        for digit in range(1, 10):
+            curr = [str(digit)]
+            dfs()
+
+        return ans
 
