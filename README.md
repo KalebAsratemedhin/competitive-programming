@@ -16,6 +16,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Array
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
