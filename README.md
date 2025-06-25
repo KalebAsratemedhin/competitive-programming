@@ -71,6 +71,7 @@
 | [1293-three-consecutive-odds](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2048-build-array-from-permutation) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -119,6 +120,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
