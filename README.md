@@ -25,6 +25,7 @@
 | [0868-push-dominoes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0868-push-dominoes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -131,6 +132,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -156,6 +158,7 @@
 | ------- |
 | [0868-push-dominoes](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/0868-push-dominoes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KalebAsratemedhin/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Tree
 |  |
 | ------- |
